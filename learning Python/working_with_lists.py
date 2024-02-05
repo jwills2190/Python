@@ -102,3 +102,9 @@ def greeting():
 
 greeting()
 
+def new_funct(x, y):
+    if(x > y):
+        print(x - y)
+        
+new_funct(10, 7)
+        
