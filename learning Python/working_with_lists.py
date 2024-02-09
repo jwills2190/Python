@@ -94,17 +94,17 @@ print(names_again)
 # They're similar to how you write lists but with () instead.
 # tuples must contain a comma to make them a tuple. to create a tuples with one element you would write it my_t = (3, )
 dimensions = (200, 50)
-print(dimensions[0])
-print(dimensions[1])
+# print(dimensions[0])
+# print(dimensions[1])
 
-def greeting():
-    print("Hello World")
-
-greeting()
-
-def new_funct(x, y):
-    if(x > y):
-        print(x - y)
-        
-new_funct(10, 7)
-        
+# for dimension in dimensions:
+#     print(dimension)
+    
+print("Original dimensions:")
+for dimension in dimensions:
+    print(dimension)
+    
+dimensions = (400, 100)
+print("\nModified dimensions:")
+for dimension in dimensions:
+    print(dimension)
