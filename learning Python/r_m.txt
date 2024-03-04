@@ -1,0 +1,20 @@
+Rick Sanchez, Human Humans = 1 Aliens = 0
+Morty Smith, Human Humans = 2 Aliens = 0
+Summer Smith, Human Humans = 3 Aliens = 0
+Beth Smith, Human Humans = 4 Aliens = 0
+Jerry Smith, Human Humans = 5 Aliens = 0
+Abadango Cluster Princess, Alien Humans = 5 Aliens = 1
+Abradolf Lincler, Human Humans = 6 Aliens = 1
+Adjudicator Rick, Human Humans = 7 Aliens = 1
+Agency Director, Human Humans = 8 Aliens = 1
+Alan Rails, Human Humans = 9 Aliens = 1
+Albert Einstein, Human Humans = 10 Aliens = 1
+Alexander, Human Humans = 11 Aliens = 1
+Alien Googah, Alien Humans = 11 Aliens = 2
+Alien Morty, Alien Humans = 11 Aliens = 3
+Alien Rick, Alien Humans = 11 Aliens = 4
+Amish Cyborg, Alien Humans = 11 Aliens = 5
+Annie, Human Humans = 12 Aliens = 5
+Antenna Morty, Human Humans = 13 Aliens = 5
+Antenna Rick, Human Humans = 14 Aliens = 5
+Ants in my Eyes Johnson, Human Humans = 15 Aliens = 5
