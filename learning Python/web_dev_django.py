@@ -17,7 +17,7 @@
 # **** V IMPORTANT!!!! python -m virtualenv venv ***** - for Windows
 # install virtual environment, comes as library, use PIP or python package manager. Think of it as an app store, knows how to install it. Never google and then download library
 # pip install virtualenv - initialize virtual environment with virtualenv venv
-# venv\scripts\activate - done every time you want to run a project
+# venv\Scripts\activate - done every time you want to run a project
 
 # install libraries only with virtual environment activated.
 # pip install django
@@ -104,3 +104,9 @@
 
 # use something like ( <a href={{car.get_absolute_url}}>{{car.make}} {{car.model}}</a>) on list html file to get links to individual pages.
 # static files vs media files. 
+
+
+# Folder w/ venv, project goes inside (in this current case - restaurants.)
+# You can create different apps in the project, in this case Places.
+# templates goes in apps.
+# Use pip install -r requirements.txt when opening a pulled project. This makes sure you pull in all details and versions from previous project.
