@@ -1,5 +1,4 @@
 from pip._vendor import requests
-API_KEY = "uNuYeA2IHXI3jBBE2tjiW3hOo8fkuxa2b3he7CclM2t1UJBZEuF8oRzLsRDdoGtiPCa0up7RBnRWrhNyFcmkkGnyt3F6QZbB4fZm7bH1qInply7j4NQ8fucf0O_hZXYx"
 url = "https://api.yelp.com/v3/businesses/search"
 file = open("rest.txt", mode="a", encoding="utf8")
 headers = {'Authorization': f"Bearer {API_KEY}"}
