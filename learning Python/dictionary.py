@@ -5,6 +5,7 @@
 # List = collection of iterable items stored in a variable surrounded by [].
 
 d = {'z': 275, 'c': 1, 'a': 67}
+
 def get_number(t):
     print(t[1])
     return t[1]
